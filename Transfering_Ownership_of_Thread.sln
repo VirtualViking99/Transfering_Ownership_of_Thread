@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Transfering_Ownership_of_Thread", "Transfering_Ownership_of_Thread.vcxproj", "{12D69DAC-601F-4D73-BA61-976844D50492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Debug|x64.ActiveCfg = Debug|x64
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Debug|x64.Build.0 = Debug|x64
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Debug|x86.ActiveCfg = Debug|Win32
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Debug|x86.Build.0 = Debug|Win32
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Release|x64.ActiveCfg = Release|x64
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Release|x64.Build.0 = Release|x64
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Release|x86.ActiveCfg = Release|Win32
+		{12D69DAC-601F-4D73-BA61-976844D50492}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A56F6DC-FC79-43AC-A87A-5B0F81C5929D}
+	EndGlobalSection
+EndGlobal
